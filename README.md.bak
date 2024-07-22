@@ -45,7 +45,7 @@ All demos use the same bicycle catalog as context data. The catalog contains 100
 ![OpenAI](./assets/openai.png)
 6. Execute the [loader.py](./coding/loader.py) script to create the `bicycle_catalog` collection in your Astra DB database and to populate the collection with the bicycle catalog data. Ensure you do that within the `coding` folder of this repository.
     ```sh
-    streamlit run loader.py
+    python loader.py
     ```
 
 Let's have fun with the demos now!
