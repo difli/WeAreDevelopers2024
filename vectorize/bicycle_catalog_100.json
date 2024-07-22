@@ -1,0 +1,702 @@
+[
+  {
+    "id":1,
+    "bicycle_type":"Folding Bike",
+    "product_name":"Compact Rider 200",
+    "product_description":"Experience the convenience of the Compact Rider 200 folding bike. It features a robust frame, easy folding mechanism, and comfortable ride, making it perfect for city use.",
+    "price":749.27
+  },
+  {
+    "id":2,
+    "bicycle_type":"Gravel Bike",
+    "product_name":"Gravel Grinder 200",
+    "product_description":"With the Gravel Grinder 200, you can explore new paths. This gravel bike provides durability, stability, and versatility for both on-road and off-road adventures.",
+    "price":894.81
+  },
+  {
+    "id":3,
+    "bicycle_type":"Mountain Bike",
+    "product_name":"Trailblazer 300",
+    "product_description":"The Trailblazer 300 is a high-performance mountain bike designed for tackling the toughest trails. It features a durable frame, superior suspension, and aggressive tires for excellent traction.",
+    "price":1404.13
+  },
+  {
+    "id":4,
+    "bicycle_type":"Electric Bike",
+    "product_name":"Electric Glide 500",
+    "product_description":"Experience the future of commuting with the Electric Glide 500. This electric bike offers pedal-assist technology, a durable frame, and smooth acceleration for a seamless ride.",
+    "price":3994.06
+  },
+  {
+    "id":5,
+    "bicycle_type":"BMX Bike",
+    "product_name":"Freestyle Master 200",
+    "product_description":"The Freestyle Master 200 BMX bike is built for stunts and tricks, featuring a strong frame, responsive brakes, and durable tires for maximum performance in the skate park.",
+    "price":687.13
+  },
+  {
+    "id":6,
+    "bicycle_type":"Road Bike",
+    "product_name":"Speedster 400",
+    "product_description":"The Speedster 400 road bike is engineered for speed and efficiency. Its aerodynamic frame, high-quality components, and smooth gear shifts make it perfect for long rides on paved roads.",
+    "price":2945.78
+  },
+  {
+    "id":7,
+    "bicycle_type":"Electric Bike",
+    "product_name":"E-Power 500",
+    "product_description":"With the E-Power 500, enjoy an eco-friendly and efficient ride. This electric bike boasts a high-capacity battery, powerful motor, and comfortable design for daily commutes.",
+    "price":4733.85
+  },
+  {
+    "id":8,
+    "bicycle_type":"Mountain Bike",
+    "product_name":"Rockhopper 300",
+    "product_description":"With the Rockhopper 300, you get a mountain bike built for adventure, offering a lightweight yet robust frame, responsive handling, and powerful disc brakes.",
+    "price":1788.28
+  },
+  {
+    "id":9,
+    "bicycle_type":"Gravel Bike",
+    "product_name":"Gravel Grinder 300",
+    "product_description":"With the Gravel Grinder 300, you can explore new paths. This gravel bike provides durability, stability, and versatility for both on-road and off-road adventures.",
+    "price":1784.7
+  },
+  {
+    "id":10,
+    "bicycle_type":"Cyclocross Bike",
+    "product_name":"Cyclocross Champ 400",
+    "product_description":"Experience the excitement of cyclocross with the Cyclocross Champ 400. This bike offers quick handling, robust construction, and advanced components for high-performance racing.",
+    "price":2824.38
+  },
+  {
+    "id":11,
+    "bicycle_type":"Hybrid Bike",
+    "product_name":"Urban Commuter 200",
+    "product_description":"Navigate urban streets and park trails effortlessly with the Urban Commuter 200. This hybrid bike boasts a durable frame, comfortable seating, and versatile tires.",
+    "price":684.4
+  },
+  {
+    "id":12,
+    "bicycle_type":"Gravel Bike",
+    "product_name":"Gravel Grinder 400",
+    "product_description":"With the Gravel Grinder 400, you can explore new paths. This gravel bike provides durability, stability, and versatility for both on-road and off-road adventures.",
+    "price":2270.19
+  },
+  {
+    "id":13,
+    "bicycle_type":"Cruiser Bike",
+    "product_name":"Beach Cruiser 100",
+    "product_description":"Ride in style with the Beach Cruiser 100 cruiser bike, which features a retro design, wide handlebars, and a comfortable saddle for leisurely rides along the beach or through the park.",
+    "price":301.74
+  },
+  {
+    "id":14,
+    "bicycle_type":"Gravel Bike",
+    "product_name":"Dirt King 300",
+    "product_description":"The Dirt King 300 gravel bike is built for versatility, offering a stable ride on both paved and unpaved roads with its rugged frame and wide tires.",
+    "price":1135.94
+  },
+  {
+    "id":15,
+    "bicycle_type":"BMX Bike",
+    "product_name":"Trickster 200",
+    "product_description":"Designed for extreme sports, the Trickster 200 BMX bike provides a robust build, superior control, and reliable brakes, making it perfect for trick riding.",
+    "price":517.47
+  },
+  {
+    "id":16,
+    "bicycle_type":"Cruiser Bike",
+    "product_name":"Beach Cruiser 200",
+    "product_description":"The Beach Cruiser 200 is perfect for relaxed rides, offering a stylish design, cushioned seat, and easy-to-use coaster brakes for a smooth and enjoyable experience.",
+    "price":722.21
+  },
+  {
+    "id":17,
+    "bicycle_type":"Hybrid Bike",
+    "product_name":"Urban Commuter 100",
+    "product_description":"Navigate urban streets and park trails effortlessly with the Urban Commuter 100. This hybrid bike boasts a durable frame, comfortable seating, and versatile tires.",
+    "price":307.63
+  },
+  {
+    "id":18,
+    "bicycle_type":"Folding Bike",
+    "product_name":"Compact Rider 300",
+    "product_description":"Ideal for city living, the Compact Rider 300 folding bike offers convenience and portability. It folds quickly and easily for storage, yet provides a smooth ride with its sturdy construction.",
+    "price":1506.66
+  },
+  {
+    "id":19,
+    "bicycle_type":"Gravel Bike",
+    "product_name":"Pathfinder 300",
+    "product_description":"With the Pathfinder 300, you can explore new paths. This gravel bike provides durability, stability, and versatility for both on-road and off-road adventures.",
+    "price":1249.96
+  },
+  {
+    "id":20,
+    "bicycle_type":"Cruiser Bike",
+    "product_name":"Retro Rider 100",
+    "product_description":"Enjoy a comfortable and leisurely ride with the Retro Rider 100. This cruiser bike features a classic design, wide tires, and a plush saddle for maximum comfort.",
+    "price":360.24
+  },
+  {
+    "id":21,
+    "bicycle_type":"Road Bike",
+    "product_name":"Speedster 300",
+    "product_description":"Speedster 300 offers a sleek design and lightweight build, providing excellent performance and comfort for road cyclists. Its precision engineering ensures a smooth and fast ride.",
+    "price":1404.05
+  },
+  {
+    "id":22,
+    "bicycle_type":"Electric Bike",
+    "product_name":"Electric Glide 300",
+    "product_description":"The Electric Glide 300 electric bike combines modern technology with cycling, featuring a powerful motor, long-lasting battery, and intuitive controls for an effortless ride.",
+    "price":1285.66
+  },
+  {
+    "id":23,
+    "bicycle_type":"BMX Bike",
+    "product_name":"Freestyle Master 100",
+    "product_description":"Show off your skills with the Freestyle Master 100 BMX bike. It offers a lightweight yet sturdy frame, high-grip tires, and excellent maneuverability for freestyle riding.",
+    "price":400.13
+  },
+  {
+    "id":24,
+    "bicycle_type":"Road Bike",
+    "product_name":"Road Runner 400",
+    "product_description":"Experience the thrill of road cycling with the Road Runner 400. This bike features a responsive braking system, aerodynamic frame, and high-performance tires for unmatched speed.",
+    "price":2388.81
+  },
+  {
+    "id":25,
+    "bicycle_type":"Touring Bike",
+    "product_name":"Touring Pro 200",
+    "product_description":"The Touring Pro 200 touring bike is designed for long-distance rides, featuring a comfortable saddle, large carrying capacity, and durable frame to handle any adventure.",
+    "price":943.06
+  },
+  {
+    "id":26,
+    "bicycle_type":"Road Bike",
+    "product_name":"Speedster 200",
+    "product_description":"Speedster 200 offers a sleek design and lightweight build, providing excellent performance and comfort for road cyclists. Its precision engineering ensures a smooth and fast ride.",
+    "price":733.8
+  },
+  {
+    "id":27,
+    "bicycle_type":"Hybrid Bike",
+    "product_name":"All-Rounder 100",
+    "product_description":"The All-Rounder 100 hybrid bike blends the best of road and mountain bikes, featuring a comfortable upright position, versatile tires, and a sturdy frame for various terrains.",
+    "price":207.64
+  },
+  {
+    "id":28,
+    "bicycle_type":"Folding Bike",
+    "product_name":"Compact Rider 100",
+    "product_description":"Experience the convenience of the Compact Rider 100 folding bike. It features a robust frame, easy folding mechanism, and comfortable ride, making it perfect for city use.",
+    "price":451.93
+  },
+  {
+    "id":29,
+    "bicycle_type":"BMX Bike",
+    "product_name":"BMX Pro 200",
+    "product_description":"Designed for extreme sports, the BMX Pro 200 BMX bike provides a robust build, superior control, and reliable brakes, making it perfect for trick riding.",
+    "price":687.27
+  },
+  {
+    "id":30,
+    "bicycle_type":"Cruiser Bike",
+    "product_name":"Retro Rider 200",
+    "product_description":"Enjoy a comfortable and leisurely ride with the Retro Rider 200. This cruiser bike features a classic design, wide tires, and a plush saddle for maximum comfort.",
+    "price":999.91
+  },
+  {
+    "id":31,
+    "bicycle_type":"Folding Bike",
+    "product_name":"Foldaway 300",
+    "product_description":"Experience the convenience of the Foldaway 300 folding bike. It features a robust frame, easy folding mechanism, and comfortable ride, making it perfect for city use.",
+    "price":1453.85
+  },
+  {
+    "id":32,
+    "bicycle_type":"Mountain Bike",
+    "product_name":"Summit Seeker 300",
+    "product_description":"With the Summit Seeker 300, you get a mountain bike built for adventure, offering a lightweight yet robust frame, responsive handling, and powerful disc brakes.",
+    "price":1275.93
+  },
+  {
+    "id":33,
+    "bicycle_type":"Electric Bike",
+    "product_name":"Volt Rider 500",
+    "product_description":"Experience the future of commuting with the Volt Rider 500. This electric bike offers pedal-assist technology, a durable frame, and smooth acceleration for a seamless ride.",
+    "price":3073.6
+  },
+  {
+    "id":34,
+    "bicycle_type":"Cyclocross Bike",
+    "product_name":"Mud Racer 400",
+    "product_description":"Experience the excitement of cyclocross with the Mud Racer 400. This bike offers quick handling, robust construction, and advanced components for high-performance racing.",
+    "price":2015.65
+  },
+  {
+    "id":35,
+    "bicycle_type":"Hybrid Bike",
+    "product_name":"All-Rounder 200",
+    "product_description":"Navigate urban streets and park trails effortlessly with the All-Rounder 200. This hybrid bike boasts a durable frame, comfortable seating, and versatile tires.",
+    "price":657.47
+  },
+  {
+    "id":36,
+    "bicycle_type":"Mountain Bike",
+    "product_name":"Trailblazer 200",
+    "product_description":"The Trailblazer 200 is a high-performance mountain bike designed for tackling the toughest trails. It features a durable frame, superior suspension, and aggressive tires for excellent traction.",
+    "price":547.0
+  },
+  {
+    "id":37,
+    "bicycle_type":"Electric Bike",
+    "product_name":"Electric Glide 400",
+    "product_description":"Experience the future of commuting with the Electric Glide 400. This electric bike offers pedal-assist technology, a durable frame, and smooth acceleration for a seamless ride.",
+    "price":2624.21
+  },
+  {
+    "id":38,
+    "bicycle_type":"Hybrid Bike",
+    "product_name":"City Explorer 200",
+    "product_description":"For both city commuting and light trail riding, the City Explorer 200 offers a smooth ride with its ergonomic design, adaptable tires, and efficient gear system.",
+    "price":692.75
+  },
+  {
+    "id":39,
+    "bicycle_type":"Hybrid Bike",
+    "product_name":"Versatile Rider 200",
+    "product_description":"For both city commuting and light trail riding, the Versatile Rider 200 offers a smooth ride with its ergonomic design, adaptable tires, and efficient gear system.",
+    "price":776.99
+  },
+  {
+    "id":40,
+    "bicycle_type":"Folding Bike",
+    "product_name":"Urban Folder 300",
+    "product_description":"The Urban Folder 300 is a compact and efficient folding bike, perfect for urban commuters. Its lightweight frame and reliable components ensure a hassle-free ride.",
+    "price":1523.73
+  },
+  {
+    "id":41,
+    "bicycle_type":"Electric Bike",
+    "product_name":"E-Motion 500",
+    "product_description":"With the E-Motion 500, enjoy an eco-friendly and efficient ride. This electric bike boasts a high-capacity battery, powerful motor, and comfortable design for daily commutes.",
+    "price":4892.42
+  },
+  {
+    "id":42,
+    "bicycle_type":"Gravel Bike",
+    "product_name":"Dirt King 400",
+    "product_description":"The Dirt King 400 gravel bike is built for versatility, offering a stable ride on both paved and unpaved roads with its rugged frame and wide tires.",
+    "price":2325.21
+  },
+  {
+    "id":43,
+    "bicycle_type":"Cruiser Bike",
+    "product_name":"Smooth Cruiser 200",
+    "product_description":"The Smooth Cruiser 200 is perfect for relaxed rides, offering a stylish design, cushioned seat, and easy-to-use coaster brakes for a smooth and enjoyable experience.",
+    "price":689.65
+  },
+  {
+    "id":44,
+    "bicycle_type":"Road Bike",
+    "product_name":"Veloce 400",
+    "product_description":"The Veloce 400 road bike is engineered for speed and efficiency. Its aerodynamic frame, high-quality components, and smooth gear shifts make it perfect for long rides on paved roads.",
+    "price":2703.12
+  },
+  {
+    "id":45,
+    "bicycle_type":"Cruiser Bike",
+    "product_name":"Relax Rider 200",
+    "product_description":"The Relax Rider 200 is perfect for relaxed rides, offering a stylish design, cushioned seat, and easy-to-use coaster brakes for a smooth and enjoyable experience.",
+    "price":820.72
+  },
+  {
+    "id":46,
+    "bicycle_type":"Mountain Bike",
+    "product_name":"Trailblazer 100",
+    "product_description":"The Trailblazer 100 is a high-performance mountain bike designed for tackling the toughest trails. It features a durable frame, superior suspension, and aggressive tires for excellent traction.",
+    "price":422.19
+  },
+  {
+    "id":47,
+    "bicycle_type":"Folding Bike",
+    "product_name":"Foldaway 200",
+    "product_description":"The Foldaway 200 is a compact and efficient folding bike, perfect for urban commuters. Its lightweight frame and reliable components ensure a hassle-free ride.",
+    "price":570.85
+  },
+  {
+    "id":48,
+    "bicycle_type":"BMX Bike",
+    "product_name":"Stunt Rider 200",
+    "product_description":"Designed for extreme sports, the Stunt Rider 200 BMX bike provides a robust build, superior control, and reliable brakes, making it perfect for trick riding.",
+    "price":520.77
+  },
+  {
+    "id":49,
+    "bicycle_type":"Cyclocross Bike",
+    "product_name":"Cyclocross Champ 300",
+    "product_description":"Built for competitive racing, the Cyclocross Champ 300 cyclocross bike features a lightweight frame, aggressive tread tires, and superior handling for varied terrain.",
+    "price":1092.81
+  },
+  {
+    "id":50,
+    "bicycle_type":"Cyclocross Bike",
+    "product_name":"CX Pro 400",
+    "product_description":"Experience the excitement of cyclocross with the CX Pro 400. This bike offers quick handling, robust construction, and advanced components for high-performance racing.",
+    "price":2456.58
+  },
+  {
+    "id":51,
+    "bicycle_type":"Cyclocross Bike",
+    "product_name":"Mud Racer 300",
+    "product_description":"The Mud Racer 300 cyclocross bike is designed for speed and agility, with a lightweight frame, responsive brakes, and durable tires to handle challenging courses.",
+    "price":1064.01
+  },
+  {
+    "id":52,
+    "bicycle_type":"Hybrid Bike",
+    "product_name":"Urban Commuter 300",
+    "product_description":"The Urban Commuter 300 hybrid bike blends the best of road and mountain bikes, featuring a comfortable upright position, versatile tires, and a sturdy frame for various terrains.",
+    "price":1346.36
+  },
+  {
+    "id":53,
+    "bicycle_type":"Folding Bike",
+    "product_name":"Foldaway 100",
+    "product_description":"Ideal for city living, the Foldaway 100 folding bike offers convenience and portability. It folds quickly and easily for storage, yet provides a smooth ride with its sturdy construction.",
+    "price":385.22
+  },
+  {
+    "id":54,
+    "bicycle_type":"BMX Bike",
+    "product_name":"Trickster 100",
+    "product_description":"Designed for extreme sports, the Trickster 100 BMX bike provides a robust build, superior control, and reliable brakes, making it perfect for trick riding.",
+    "price":445.42
+  },
+  {
+    "id":55,
+    "bicycle_type":"BMX Bike",
+    "product_name":"BMX Pro 100",
+    "product_description":"The BMX Pro 100 BMX bike is built for stunts and tricks, featuring a strong frame, responsive brakes, and durable tires for maximum performance in the skate park.",
+    "price":115.2
+  },
+  {
+    "id":56,
+    "bicycle_type":"Road Bike",
+    "product_name":"Road Runner 300",
+    "product_description":"Road Runner 300 offers a sleek design and lightweight build, providing excellent performance and comfort for road cyclists. Its precision engineering ensures a smooth and fast ride.",
+    "price":1803.57
+  },
+  {
+    "id":57,
+    "bicycle_type":"Hybrid Bike",
+    "product_name":"All-Rounder 300",
+    "product_description":"For both city commuting and light trail riding, the All-Rounder 300 offers a smooth ride with its ergonomic design, adaptable tires, and efficient gear system.",
+    "price":1270.43
+  },
+  {
+    "id":58,
+    "bicycle_type":"Cyclocross Bike",
+    "product_name":"CX Pro 300",
+    "product_description":"Built for competitive racing, the CX Pro 300 cyclocross bike features a lightweight frame, aggressive tread tires, and superior handling for varied terrain.",
+    "price":1038.29
+  },
+  {
+    "id":59,
+    "bicycle_type":"Cyclocross Bike",
+    "product_name":"Cross King 400",
+    "product_description":"Experience the excitement of cyclocross with the Cross King 400. This bike offers quick handling, robust construction, and advanced components for high-performance racing.",
+    "price":2049.54
+  },
+  {
+    "id":60,
+    "bicycle_type":"Mountain Bike",
+    "product_name":"Peak Conqueror 300",
+    "product_description":"Conquer any terrain with the Peak Conqueror 300. This mountain bike comes with an advanced suspension system, rugged tires, and a reliable gear system for all your off-road needs.",
+    "price":1950.34
+  },
+  {
+    "id":61,
+    "bicycle_type":"Hybrid Bike",
+    "product_name":"Metro Mover 200",
+    "product_description":"The Metro Mover 200 hybrid bike blends the best of road and mountain bikes, featuring a comfortable upright position, versatile tires, and a sturdy frame for various terrains.",
+    "price":794.43
+  },
+  {
+    "id":62,
+    "bicycle_type":"Cruiser Bike",
+    "product_name":"Coastal Cruiser 200",
+    "product_description":"Enjoy a comfortable and leisurely ride with the Coastal Cruiser 200. This cruiser bike features a classic design, wide tires, and a plush saddle for maximum comfort.",
+    "price":776.48
+  },
+  {
+    "id":63,
+    "bicycle_type":"Electric Bike",
+    "product_name":"Electric Glide 200",
+    "product_description":"Experience the future of commuting with the Electric Glide 200. This electric bike offers pedal-assist technology, a durable frame, and smooth acceleration for a seamless ride.",
+    "price":886.61
+  },
+  {
+    "id":64,
+    "bicycle_type":"Road Bike",
+    "product_name":"Road Runner 200",
+    "product_description":"Road Runner 200 offers a sleek design and lightweight build, providing excellent performance and comfort for road cyclists. Its precision engineering ensures a smooth and fast ride.",
+    "price":747.14
+  },
+  {
+    "id":65,
+    "bicycle_type":"Hybrid Bike",
+    "product_name":"City Explorer 100",
+    "product_description":"Navigate urban streets and park trails effortlessly with the City Explorer 100. This hybrid bike boasts a durable frame, comfortable seating, and versatile tires.",
+    "price":417.25
+  },
+  {
+    "id":66,
+    "bicycle_type":"Touring Bike",
+    "product_name":"Touring Pro 400",
+    "product_description":"Embark on your next journey with the Touring Pro 400. This touring bike offers a stable ride, ergonomic design, and ample storage for extended trips.",
+    "price":2058.26
+  },
+  {
+    "id":67,
+    "bicycle_type":"Mountain Bike",
+    "product_name":"Rockhopper 200",
+    "product_description":"The Rockhopper 200 is a high-performance mountain bike designed for tackling the toughest trails. It features a durable frame, superior suspension, and aggressive tires for excellent traction.",
+    "price":809.1
+  },
+  {
+    "id":68,
+    "bicycle_type":"Folding Bike",
+    "product_name":"Urban Folder 200",
+    "product_description":"Ideal for city living, the Urban Folder 200 folding bike offers convenience and portability. It folds quickly and easily for storage, yet provides a smooth ride with its sturdy construction.",
+    "price":867.52
+  },
+  {
+    "id":69,
+    "bicycle_type":"Cruiser Bike",
+    "product_name":"Smooth Cruiser 100",
+    "product_description":"Enjoy a comfortable and leisurely ride with the Smooth Cruiser 100. This cruiser bike features a classic design, wide tires, and a plush saddle for maximum comfort.",
+    "price":474.07
+  },
+  {
+    "id":70,
+    "bicycle_type":"Road Bike",
+    "product_name":"Veloce 300",
+    "product_description":"The Veloce 300 road bike is engineered for speed and efficiency. Its aerodynamic frame, high-quality components, and smooth gear shifts make it perfect for long rides on paved roads.",
+    "price":1332.89
+  },
+  {
+    "id":71,
+    "bicycle_type":"Electric Bike",
+    "product_name":"Electro Cruiser 500",
+    "product_description":"Experience the future of commuting with the Electro Cruiser 500. This electric bike offers pedal-assist technology, a durable frame, and smooth acceleration for a seamless ride.",
+    "price":3288.46
+  },
+  {
+    "id":72,
+    "bicycle_type":"BMX Bike",
+    "product_name":"Stunt Rider 100",
+    "product_description":"The Stunt Rider 100 BMX bike is built for stunts and tricks, featuring a strong frame, responsive brakes, and durable tires for maximum performance in the skate park.",
+    "price":152.6
+  },
+  {
+    "id":73,
+    "bicycle_type":"Cruiser Bike",
+    "product_name":"Easy Glider 200",
+    "product_description":"Enjoy a comfortable and leisurely ride with the Easy Glider 200. This cruiser bike features a classic design, wide tires, and a plush saddle for maximum comfort.",
+    "price":758.75
+  },
+  {
+    "id":74,
+    "bicycle_type":"Cruiser Bike",
+    "product_name":"Leisure Leader 200",
+    "product_description":"Enjoy a comfortable and leisurely ride with the Leisure Leader 200. This cruiser bike features a classic design, wide tires, and a plush saddle for maximum comfort.",
+    "price":591.56
+  },
+  {
+    "id":75,
+    "bicycle_type":"Cyclocross Bike",
+    "product_name":"Cross King 300",
+    "product_description":"Experience the excitement of cyclocross with the Cross King 300. This bike offers quick handling, robust construction, and advanced components for high-performance racing.",
+    "price":1095.42
+  },
+  {
+    "id":76,
+    "bicycle_type":"Folding Bike",
+    "product_name":"Portable Pedal 300",
+    "product_description":"Ideal for city living, the Portable Pedal 300 folding bike offers convenience and portability. It folds quickly and easily for storage, yet provides a smooth ride with its sturdy construction.",
+    "price":1491.63
+  },
+  {
+    "id":77,
+    "bicycle_type":"Cruiser Bike",
+    "product_name":"Comfort King 200",
+    "product_description":"Enjoy a comfortable and leisurely ride with the Comfort King 200. This cruiser bike features a classic design, wide tires, and a plush saddle for maximum comfort.",
+    "price":680.13
+  },
+  {
+    "id":78,
+    "bicycle_type":"Cyclocross Bike",
+    "product_name":"Dirt Racer 300",
+    "product_description":"Experience the excitement of cyclocross with the Dirt Racer 300. This bike offers quick handling, robust construction, and advanced components for high-performance racing.",
+    "price":1261.11
+  },
+  {
+    "id":79,
+    "bicycle_type":"Folding Bike",
+    "product_name":"City Compact 300",
+    "product_description":"The City Compact 300 is a compact and efficient folding bike, perfect for urban commuters. Its lightweight frame and reliable components ensure a hassle-free ride.",
+    "price":1823.8
+  },
+  {
+    "id":80,
+    "bicycle_type":"Gravel Bike",
+    "product_name":"Gravel Crusher 300",
+    "product_description":"With the Gravel Crusher 300, you can explore new paths. This gravel bike provides durability, stability, and versatility for both on-road and off-road adventures.",
+    "price":1865.88
+  },
+  {
+    "id":81,
+    "bicycle_type":"Folding Bike",
+    "product_name":"Portable Pedal 200",
+    "product_description":"Experience the convenience of the Portable Pedal 200 folding bike. It features a robust frame, easy folding mechanism, and comfortable ride, making it perfect for city use.",
+    "price":906.43
+  },
+  {
+    "id":82,
+    "bicycle_type":"Folding Bike",
+    "product_name":"City Compact 200",
+    "product_description":"The City Compact 200 is a compact and efficient folding bike, perfect for urban commuters. Its lightweight frame and reliable components ensure a hassle-free ride.",
+    "price":640.5
+  },
+  {
+    "id":83,
+    "bicycle_type":"BMX Bike",
+    "product_name":"Ramp King 100",
+    "product_description":"Designed for extreme sports, the Ramp King 100 BMX bike provides a robust build, superior control, and reliable brakes, making it perfect for trick riding.",
+    "price":323.29
+  },
+  {
+    "id":84,
+    "bicycle_type":"Touring Bike",
+    "product_name":"Touring Pro 300",
+    "product_description":"For serious cyclists, the Touring Pro 300 provides a reliable touring bike with a strong frame, comfortable geometry, and plenty of storage options for long-distance travel.",
+    "price":1739.49
+  },
+  {
+    "id":85,
+    "bicycle_type":"Mountain Bike",
+    "product_name":"Summit Seeker 200",
+    "product_description":"With the Summit Seeker 200, you get a mountain bike built for adventure, offering a lightweight yet robust frame, responsive handling, and powerful disc brakes.",
+    "price":553.01
+  },
+  {
+    "id":86,
+    "bicycle_type":"Cyclocross Bike",
+    "product_name":"Barrier Breaker 300",
+    "product_description":"The Barrier Breaker 300 cyclocross bike is designed for speed and agility, with a lightweight frame, responsive brakes, and durable tires to handle challenging courses.",
+    "price":1933.33
+  },
+  {
+    "id":87,
+    "bicycle_type":"Gravel Bike",
+    "product_name":"Pathfinder 400",
+    "product_description":"With the Pathfinder 400, you can explore new paths. This gravel bike provides durability, stability, and versatility for both on-road and off-road adventures.",
+    "price":2400.96
+  },
+  {
+    "id":88,
+    "bicycle_type":"Hybrid Bike",
+    "product_name":"Pathfinder 200",
+    "product_description":"The Pathfinder 200 hybrid bike blends the best of road and mountain bikes, featuring a comfortable upright position, versatile tires, and a sturdy frame for various terrains.",
+    "price":621.5
+  },
+  {
+    "id":89,
+    "bicycle_type":"Mountain Bike",
+    "product_name":"Mountain Master 300",
+    "product_description":"Conquer any terrain with the Mountain Master 300. This mountain bike comes with an advanced suspension system, rugged tires, and a reliable gear system for all your off-road needs.",
+    "price":1008.93
+  },
+  {
+    "id":90,
+    "bicycle_type":"Road Bike",
+    "product_name":"Fast Track 400",
+    "product_description":"Fast Track 400 offers a sleek design and lightweight build, providing excellent performance and comfort for road cyclists. Its precision engineering ensures a smooth and fast ride.",
+    "price":2960.73
+  },
+  {
+    "id":91,
+    "bicycle_type":"Road Bike",
+    "product_name":"Asphalt Racer 400",
+    "product_description":"Experience the thrill of road cycling with the Asphalt Racer 400. This bike features a responsive braking system, aerodynamic frame, and high-performance tires for unmatched speed.",
+    "price":2446.84
+  },
+  {
+    "id":92,
+    "bicycle_type":"Road Bike",
+    "product_name":"Pavement Pro 400",
+    "product_description":"Pavement Pro 400 offers a sleek design and lightweight build, providing excellent performance and comfort for road cyclists. Its precision engineering ensures a smooth and fast ride.",
+    "price":2941.93
+  },
+  {
+    "id":93,
+    "bicycle_type":"Folding Bike",
+    "product_name":"Urban Folder 100",
+    "product_description":"Experience the convenience of the Urban Folder 100 folding bike. It features a robust frame, easy folding mechanism, and comfortable ride, making it perfect for city use.",
+    "price":401.13
+  },
+  {
+    "id":94,
+    "bicycle_type":"Mountain Bike",
+    "product_name":"Hill Climber 300",
+    "product_description":"The Hill Climber 300 is a high-performance mountain bike designed for tackling the toughest trails. It features a durable frame, superior suspension, and aggressive tires for excellent traction.",
+    "price":1098.34
+  },
+  {
+    "id":95,
+    "bicycle_type":"Electric Bike",
+    "product_name":"E-Power 400",
+    "product_description":"The E-Power 400 electric bike combines modern technology with cycling, featuring a powerful motor, long-lasting battery, and intuitive controls for an effortless ride.",
+    "price":2381.57
+  },
+  {
+    "id":96,
+    "bicycle_type":"Gravel Bike",
+    "product_name":"Trail Blazer 300",
+    "product_description":"The Trail Blazer 300 gravel bike is built for versatility, offering a stable ride on both paved and unpaved roads with its rugged frame and wide tires.",
+    "price":1271.95
+  },
+  {
+    "id":97,
+    "bicycle_type":"Gravel Bike",
+    "product_name":"Road Rambler 300",
+    "product_description":"The Road Rambler 300 gravel bike is built for versatility, offering a stable ride on both paved and unpaved roads with its rugged frame and wide tires.",
+    "price":1735.93
+  },
+  {
+    "id":98,
+    "bicycle_type":"Mountain Bike",
+    "product_name":"Peak Conqueror 200",
+    "product_description":"With the Peak Conqueror 200, you get a mountain bike built for adventure, offering a lightweight yet robust frame, responsive handling, and powerful disc brakes.",
+    "price":563.57
+  },
+  {
+    "id":99,
+    "bicycle_type":"Hybrid Bike",
+    "product_name":"Town Trekker 200",
+    "product_description":"Navigate urban streets and park trails effortlessly with the Town Trekker 200. This hybrid bike boasts a durable frame, comfortable seating, and versatile tires.",
+    "price":864.05
+  },
+  {
+    "id":100,
+    "bicycle_type":"BMX Bike",
+    "product_name":"Airborne Ace 100",
+    "product_description":"The Airborne Ace 100 BMX bike is built for stunts and tricks, featuring a strong frame, responsive brakes, and durable tires for maximum performance in the skate park.",
+    "price":250.9
+  }
+]
