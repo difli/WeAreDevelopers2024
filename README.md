@@ -59,7 +59,6 @@ This demo shows the impact of Retrieval-Augmented Generation (RAG) on the releva
     ```sh
     streamlit run app_without_rag.py
     ```
-    ![chatbot](./assets/chatbot.jpg)
 2. **Without RAG**
     - Uncheck `Enable Retrieval Augmented Generation (RAG)`
     ![without](./assets/without.jpg)
