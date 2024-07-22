@@ -155,6 +155,7 @@ This no-coding demo highlights the rapid development capabilities of Langflow fo
 ## Resources
 - [Astra DB Documentation](https://docs.astradb.com)
 - [Astra Vectorize](https://docs.datastax.com/en/astra-db-serverless/databases/embedding-generation.html)
+- [RAGStack](https://docs.datastax.com/en/ragstack/index.html)
 - [Langflow Documentation](https://docs.datastax.com/en/ragstack/langflow/index.html)
 - [WeAreDevelopers Conference](https://www.wearedevelopers.com/)
 
