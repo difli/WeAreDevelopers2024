@@ -55,7 +55,12 @@ Let's have fun with the demos now!
 This demo shows the impact of Retrieval-Augmented Generation (RAG) on the relevance of responses for LLM-powered applications.
 
 #### Flow of the Demo
-1. **Without RAG**
+1. Run [app_without_rag.py](./coding/app_without_rag.py). Ensure you are within the `coding` folder.
+    ```sh
+    streamlit run app_without_rag.py
+    ```
+    ![chatbot](./assets/chatbot.jpg)
+2. **Without RAG**
     - Uncheck `Enable Retrieval Augmented Generation (RAG)`
     ![without](./assets/without.jpg)
     - The bicycle recommendations are `generic` without RAG. The listed bicycles are not from our bicycle catalog. The LLM was trained on a vast amount of public data, but not with our private data. Therefore, it does not know about our catalog and cannot recommend any of our specific bikes that we have in our store and want to sell.
