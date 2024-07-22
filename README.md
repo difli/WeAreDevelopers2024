@@ -31,7 +31,16 @@ All demos use the same bicycle catalog as context data. The catalog contains 100
     git clone https://github.com/difli/WeAreDevelopers2024.git
     cd WeAreDevelopers2024
     ```
-2. Install the required dependencies:
+2. Create a *Virtual Python Environment*. Use the below to set it up:
+    ```
+    python3 -m venv myenv
+    ```
+    Then activate it as follows:
+    ```
+    source myenv/bin/activate   # on Linux/Mac
+    myenv\Scripts\activate.bat  # on Windows
+    ```
+3. Install the required dependencies:
     ```sh
     pip install -r ./coding/requirements.txt
     ```
